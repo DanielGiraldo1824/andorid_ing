@@ -1,0 +1,6 @@
+projectKey=android_ing
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/android_ing
+ceTaskId=AV9mTRBjZp5e95lr7Eve
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV9mTRBjZp5e95lr7Eve
